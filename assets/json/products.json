@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "Classic Fit Cotton Shirt",
+      "price": 79.99,
+      "details": "High-quality cotton fabric, comfortable and stylish classic fit shirt. Suitable for daily and business wear.",
+      "link": "https://www.example.com/shirt1",
+      "images": {
+        "white": "./assets/img/cotton-shirt-color-white.svg",
+        "black": "./assets/img/cotton-shirt-color-black.svg"
+      }
+    },
+    {
+      "name": "Slim Fit Linen Trousers",
+      "price": 129.99,
+      "details": "Lightweight and breathable linen fabric, modern slim fit trousers. Provides a cool and stylish look in summer.",
+      "link": "https://www.example.com/trousers1",
+      "images": {
+        "white": "./assets/img/linen-trousers-color-white.svg",
+        "black": "./assets/img/linen-trousers-color-black.svg"
+      }
+    },
+    {
+      "name": "Leather Jacket",
+      "price": 349.99,
+      "details": "Genuine leather material, timeless and stylish leather jacket. Suitable for all seasons.",
+      "link": "https://www.example.com/jacket1",
+      "images": {
+        "white": "./assets/img/leather-jacket-color-white.svg",
+        "black": "./assets/img/leather-jacket-color-black.svg"
+      }
+    },
+    {
+      "name": "Knit Sweater",
+      "price": 149.99,
+      "details": "Soft knit fabric, warm and comfortable sweater. Provides a stylish look in winter.",
+      "link": "https://www.example.com/sweater1",
+      "images": {
+        "white": "./assets/img/knit-sweater-color-white.svg",
+        "black": "./assets/img/knit-sweater-color-black.svg"
+      }
+    },
+    {
+      "name": "Sneakers",
+      "price": 199.99,
+      "details": "Comfortable and durable materials, stylish sneakers. Suitable for daily use and sports activities.",
+      "link": "https://www.example.com/shoes1",
+      "images": {
+        "white": "./assets/img/sneakers-color-white.svg",
+        "black": "./assets/img/sneakers-color-black.svg"
+      }
+    },
+    {
+      "name": "Linen Shirt",
+      "price": 99.99,
+      "details": "Lightweight and breathable linen fabric, comfortable and stylish shirt. Provides a cool look in summer.",
+      "link": "https://www.example.com/shirt2",
+      "images": {
+        "white": "./assets/img/linen-shirt-color-white.svg",
+        "black": "./assets/img/linen-shirt-color-black.svg"
+      }
+    },
+    {
+      "name": "Leather Belt",
+      "price": 69.99,
+      "details": "Genuine leather material, stylish and durable belt. Fits every style.",
+      "link": "https://www.example.com/belt1",
+      "images": {
+        "white": "./assets/img/leather-belt-color-white.svg",
+        "black": "./assets/img/leather-belt-color-black.svg"
+      }
+    },
+    {
+      "name": "Sunglasses",
+      "price": 129.99,
+      "details": "UV protected lenses, stylish and modern sunglasses. Protects your eyes from harmful sun rays in summer.",
+      "link": "https://www.example.com/sunglasses1",
+      "images": {
+        "white": "./assets/img/sunglasses-color-white.svg",
+        "black": "./assets/img/sunglasses-color-black.svg"
+      }
+    }
+  ]
+}
